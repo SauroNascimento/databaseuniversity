@@ -1,4 +1,4 @@
-# [Banco de Dados Universidade]
+# Banco de Dados Universidade
 [imagem ilustrativa do projeto]
 Descrição
 Breve descrição do que é o projeto e qual problema ele pretende
